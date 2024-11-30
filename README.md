@@ -1,7 +1,7 @@
 # Smart India Hackathon Workshop
-# Date:
-## Register Number:
-## Name:
+# Date:01-12-2021
+## Register Number:24001544
+## Name:Sushmitha Gembunathan
 ## Problem Title
 Implementation of the Alumni Association platform for the University/Institute.
 ## Problem Description
@@ -11,15 +11,35 @@ Government of Gujarat
 
 ## Idea
 
+    1.Synergy Space:With the help of a one-to-one message system and common groups, it connects alumni through shared interests, professions, and locations, fostering networking, mentorship, and collaboration. Features like interest groups, career-focused sections, regional hubs, and mentorship programs enable meaningful connections and professional growth through both virtual and in-person engagement.
+
+	2.Job Portal:In this job portal, one can upload job openings if they have any so that anyone in need can use it. Connect with potential employers within the alumni portal based on their skills and requirements with the help of link sharings .A column that provides information about industry which includes ctcs , location and categories with the help of data visualisation tools and data analysis from alumnis profile
+	
+
+	3.Path of Success Column :This column helps alumins to showcase their achievements and track their success stories and notable contributions to the society which inspires students in their field of interest .
+
+	4.Events and Reunion Board:This board displays upcoming events and reunions which are going to be held by the university in the platform calendar . Registration links are also available for the alumnis to register for the events. Photos and important events are also available in this board which can be searched with the help of a search bar.
+
+	5.Donation Bank:This donation portal allows donors to contribute to scholarships and fellowships, campus development and infrastructure, research and innovation, and emergency funds through net banking and UPI.
+
+
 
 ## Proposed Solution / Architecture Diagram
-
+![alt text](<Architecture Diagram.jpg>)
 
 ## Use Cases
-
+![alt text](<Use Cases.jpg>)
 
 ## Technology Stack
 
+Python
+Django
+MySQL
+Google Calender
+Stripe
 
 ## Dependencies
 
+Website creation-30 days
+Data collection-15 days
+budget-rs.50,000
